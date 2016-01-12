@@ -1,4 +1,4 @@
-var toggle = false;
+var toggle = true;
 
 function toggler() {
 	// window.alert("in");
